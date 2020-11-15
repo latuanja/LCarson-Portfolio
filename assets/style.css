@@ -14,6 +14,13 @@ body {
 .nav {
     background-color: grey;
     font-weight: bold;
-    color: black
+    color: black;
 }
-
+.portfolioImages {
+    max-width: 100%;
+    height: auto;
+    padding: 5%;
+}
+p {
+    padding: 1%;
+}
