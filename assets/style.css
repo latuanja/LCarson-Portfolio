@@ -1,9 +1,4 @@
-main, 
-html {
-    height: 100%;
-}
-    
-main {
+body {
     font-weight: 200;
     font-size: 1.5rem;
     color: #444
@@ -13,12 +8,12 @@ main {
     background: url(../assets/images/homebody1.JPG);
 }
 
-.homebody1 {
-    width: 10%;
-    height: 10%;
-    border-radius: 50%;
-    margin: 1rem;
+.col-md-8 {
+    width: 50%;
 }
-main .text {
-    background-color: blue;
+.nav {
+    background-color: grey;
+    font-weight: bold;
+    color: black
 }
+
