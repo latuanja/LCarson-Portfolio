@@ -5,7 +5,7 @@ body {
 }
 
 .intro-left {
-    background: url(../assets/images/homebody1.JPG);
+    background: url(assets/images/homebody1.JPG);
 }
 
 .col-md-8 {
@@ -23,4 +23,8 @@ body {
 }
 p {
     padding: 1%;
+}
+
+.col-md-12 {
+    width: 50%;
 }
