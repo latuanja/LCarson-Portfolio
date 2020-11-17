@@ -22,7 +22,7 @@ body {
 .portfolioImages {
     max-width: 100%;
     height: auto;
-    padding: 5%;
+    padding: 3%;
 }
 
 p {
@@ -60,6 +60,14 @@ p {
     height: 40px;
 }
 
+h7, h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.images {
+    width:"350";
+    height: auto;
+}
 @media screen and (max-width: 600px) {
     body {
     column-width: 100%;}
