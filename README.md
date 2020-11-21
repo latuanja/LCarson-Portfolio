@@ -23,4 +23,4 @@ This website was created with HTML & CSS.
 ##Summary
 This website provides basic information to allow the visitor to get better picture of who I am, where I am currently, and where I desire to go.
 
-
+![](assets/images/Profile_image.png)
